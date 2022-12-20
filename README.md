@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricky Tran</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hello" />, I'm Ricky Tran</h1>
 <h3 align="center">A clean backend developer from Montreal</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails and SQL**. Looking to learn Python next.
