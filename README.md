@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky Tran</h1>
-<h3 align="center">A clean backend developer from Canada</h3>
+<h3 align="center">A clean backend developer from Montreal</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails and SQL**. Looking to learn Python next.
 
